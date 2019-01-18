@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    color: #006AFF
+}
+
+.form-element {
+    margin: 10px;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 100px;
+    background: #333333;
+    padding: 15px;
+  }
+
+  button {
+      background: #006AFF;
+      padding: 8px;
+      border: none;
+      border-radius: 35px;
+      color: #FFFFFF;
+      font-size: 15px;
+      font-weight: bold;
+  }
+
